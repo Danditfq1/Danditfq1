@@ -41,11 +41,3 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/></a>
 </p>
-
----
-
-### 🕹️ Let's Play Pacman!
-
-[![Play Pacman](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Pacman.png/600px-Pacman.png)](https://pacman.platzh1.repl.co/)
-
-> 🎮 Klik gambar untuk main game Pacman!
