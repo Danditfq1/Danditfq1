@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm Dandi Taufik Hidayat</h1><br>
+<p align="center">
+  <img src="img/github-header-image.png" alt="header github" />
+</p>
 
-<h3 align="left">A Passionate in UI/UX Design</h3>
-<p align="left">
+<h1 align="center">Hi 👋, I'm Dandi Taufik Hidayat</h1>
+<h3 align="center">A Passionate in UI/UX Design</h3>
+
+<p align="center">
   🔧 I’m currently learning <b>CodeIgniter 4</b> and <b>Laravel</b><br>
   🎨 Interested in UI/UX Design & Frontend Development<br>
-
 </p>
 
 ---
@@ -33,7 +36,6 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
@@ -44,7 +46,6 @@
 
 ### 🕹️ Let's Play Pacman!
 
-<div align="center">
-  <iframe src="https://pacman.platzh1.repl.co/" width="400" height="400" frameborder="0"></iframe>
-</div>
-<sub>Credit: [Pacman Game Source](https://github.com/platzh1/pacman)</sub>
+[![Play Pacman](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Pacman.png/600px-Pacman.png)](https://pacman.platzh1.repl.co/)
+
+> 🎮 Klik gambar untuk main game Pacman!
